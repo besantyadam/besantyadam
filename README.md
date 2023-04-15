@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# BesantyEzekiel
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=besantyadam&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=besantyadam)](https://github.com/besantyadam/github-readme-stats)
+[![besantyadam's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=besantyadam)](https://github.com/besantyadam/github-readme-stats)
